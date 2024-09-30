@@ -15,8 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Main branch updated
+          Learn React 
+
         </a>
+        <p>updated in feature 2</p>
       </header>
     </div>
   );
