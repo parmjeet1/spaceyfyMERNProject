@@ -17,6 +17,7 @@ function App() {
         >
           Learn React Main branch updated
         </a>
+        <p>updated in feature 2. added feature 2 changes 2nd time. (git updated in main branch)</p>
       </header>
     </div>
   );
