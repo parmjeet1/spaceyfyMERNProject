@@ -18,7 +18,7 @@ function App() {
           Learn React 
 
         </a>
-        <p>updated in feature 2</p>
+        <p>updated in feature 2. added feature 2 changes 2nd time</p>
       </header>
     </div>
   );
